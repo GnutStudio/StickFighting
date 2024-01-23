@@ -1,0 +1,16 @@
+Chest.png
+size:255,255
+filter:Linear,Linear
+pma:true
+scale:0.8
+Body
+bounds:114,26,129,86
+Cap_Close
+bounds:2,7,142,110
+rotate:90
+Cap_Open
+bounds:187,114,139,66
+rotate:90
+LightShining
+bounds:2,151,183,102
+offsets:7,0,198,111

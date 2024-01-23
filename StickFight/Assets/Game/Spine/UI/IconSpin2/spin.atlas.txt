@@ -1,0 +1,16 @@
+spin.png
+size:160,112
+filter:Linear,Linear
+pma:true
+1
+bounds:113,19,16,27
+offsets:1,1,18,29
+2
+bounds:113,66,42,43
+offsets:1,1,44,45
+3
+bounds:2,2,109,107
+offsets:1,1,111,109
+4
+bounds:113,48,28,16
+offsets:1,1,30,18

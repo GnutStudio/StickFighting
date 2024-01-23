@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - FxTemporaire
+  - Missile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - 
+  - Ground
+  - 
+  - Enemy
+  - 
+  - InGame
+  - 
+  - PlayerArrow
+  - 
+  - EnemyArrow
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: InGameBehind
+    uniqueID: 4012260861
+    locked: 0
+  - name: Ground
+    uniqueID: 4109189411
+    locked: 0
+  - name: InGameAHead
+    uniqueID: 3293095125
+    locked: 0
+  - name: Player
+    uniqueID: 3301946729
+    locked: 0
+  - name: InGameAHeadS
+    uniqueID: 3643998819
+    locked: 0
+  - name: Particle
+    uniqueID: 4128526193
+    locked: 0
+  - name: UI
+    uniqueID: 1460588035
+    locked: 0

@@ -1,0 +1,25 @@
+spider_land.png
+size:472,216
+filter:Linear,Linear
+pma:true
+L foot1
+bounds:2,98,170,116
+offsets:3,2,176,120
+L foot2
+bounds:351,2,90,116
+offsets:2,2,93,119
+rotate:90
+L foot3
+bounds:2,4,92,124
+offsets:1,2,95,128
+rotate:90
+L foot4
+bounds:174,5,175,114
+offsets:2,2,178,117
+body
+bounds:174,121,195,93
+offsets:1,1,197,95
+head
+bounds:371,94,120,93
+offsets:1,1,122,95
+rotate:90

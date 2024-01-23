@@ -1,0 +1,50 @@
+boss_warrior.png
+size:288,1040
+filter:Linear,Linear
+pma:true
+5
+bounds:192,465,264,72
+offsets:45,73,360,360
+rotate:90
+6
+bounds:192,731,306,86
+offsets:32,76,360,360
+rotate:90
+7
+bounds:2,198,290,103
+offsets:52,83,360,360
+rotate:90
+8
+bounds:181,221,242,104
+offsets:53,87,360,360
+rotate:90
+L foot
+bounds:107,209,60,110
+offsets:1,1,62,112
+R foot
+bounds:107,209,60,110
+offsets:1,1,62,112
+L hand
+bounds:2,114,82,117
+rotate:90
+R hand
+bounds:2,114,82,117
+rotate:90
+body
+bounds:107,321,72,167
+ef_9_0002
+bounds:2,667,188,370
+offsets:25,14,213,391
+ef_9_0003
+bounds:169,15,115,204
+offsets:93,4,213,391
+ef_9_0004
+bounds:89,47,73,65
+offsets:82,0,213,391
+head
+bounds:2,2,110,85
+offsets:1,1,112,87
+rotate:90
+sword
+bounds:2,490,175,175
+offsets:1,1,177,177

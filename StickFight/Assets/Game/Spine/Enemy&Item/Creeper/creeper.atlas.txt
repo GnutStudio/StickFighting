@@ -1,0 +1,24 @@
+creeper.png
+size:164,176
+filter:Linear,Linear
+pma:true
+L leg 1
+bounds:99,37,60,70
+offsets:1,1,62,72
+L leg 2
+bounds:99,37,60,70
+offsets:1,1,62,72
+R leg 1
+bounds:99,37,60,70
+offsets:1,1,62,72
+R leg 2
+bounds:99,37,60,70
+offsets:1,1,62,72
+body
+bounds:2,109,65,150
+offsets:1,1,67,152
+rotate:90
+head
+bounds:2,2,105,95
+offsets:1,1,107,97
+rotate:90

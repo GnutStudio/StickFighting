@@ -1,0 +1,23 @@
+zombie.png
+size:250,119
+filter:Linear,Linear
+pma:true
+L foot
+bounds:141,7,55,110
+offsets:1,1,57,112
+R foot
+bounds:141,7,55,110
+offsets:1,1,57,112
+L hand
+bounds:198,2,50,115
+offsets:1,1,52,117
+R hand
+bounds:198,2,50,115
+offsets:1,1,52,117
+body
+bounds:79,2,60,115
+offsets:1,1,62,117
+head
+bounds:2,22,95,75
+offsets:1,1,97,77
+rotate:90

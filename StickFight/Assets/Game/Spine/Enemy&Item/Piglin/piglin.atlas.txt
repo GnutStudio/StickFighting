@@ -1,0 +1,20 @@
+piglin.png
+size:264,144
+filter:Linear,Linear
+pma:true
+L foot
+bounds:104,94,47,131
+offsets:10,1,66,132
+rotate:90
+L hand
+bounds:108,57,106,35
+R hand
+bounds:108,20,106,35
+body
+bounds:216,2,45,90
+head
+bounds:2,61,100,80
+knight
+bounds:2,2,57,104
+offsets:6,5,73,115
+rotate:90

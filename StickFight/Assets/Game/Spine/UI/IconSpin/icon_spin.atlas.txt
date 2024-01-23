@@ -1,0 +1,11 @@
+icon_spin.png
+size:136,104
+filter:Linear,Linear
+pma:true
+Layer 2
+bounds:103,61,31,39
+offsets:1,1,33,42
+Layer 3
+bounds:2,2,98,99
+offsets:1,1,100,104
+rotate:90

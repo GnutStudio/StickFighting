@@ -1,0 +1,13 @@
+icon_gift.png
+size:316,112
+filter:Linear,Linear
+pma:true
+c1
+bounds:162,2,85,108
+offsets:1,1,87,110
+c2
+bounds:249,13,65,97
+offsets:1,1,67,99
+c3
+bounds:2,6,158,104
+offsets:1,2,160,107

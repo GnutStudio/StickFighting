@@ -1,0 +1,24 @@
+golem.png
+size:284,288
+filter:Linear,Linear
+pma:true
+L foot
+bounds:124,136,60,150
+offsets:1,1,62,152
+R foot
+bounds:124,136,60,150
+offsets:1,1,62,152
+L hand
+bounds:2,64,60,280
+offsets:1,1,62,282
+rotate:90
+R hand
+bounds:2,2,60,280
+offsets:1,1,62,282
+rotate:90
+body
+bounds:2,126,120,160
+offsets:1,1,122,162
+head
+bounds:186,186,85,100
+offsets:1,1,87,102

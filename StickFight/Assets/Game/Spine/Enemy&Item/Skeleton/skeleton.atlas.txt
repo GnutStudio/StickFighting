@@ -1,0 +1,23 @@
+skeleton.png
+size:180,272
+filter:Linear,Linear
+pma:true
+L foot
+bounds:149,156,26,113
+L hand
+bounds:150,44,110,20
+rotate:90
+Rope
+bounds:131,29,17,113
+offsets:2,3,19,116
+body
+bounds:62,144,85,125
+cung ten
+bounds:2,115,58,154
+head
+bounds:2,18,95,75
+offsets:1,0,96,75
+rotate:90
+mui ten
+bounds:79,2,140,50
+rotate:90

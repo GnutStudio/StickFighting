@@ -1,0 +1,170 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 32
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 504f813a704da834885459228c7b8958, type: 3}
+  m_Name: IAPConfig
+  m_EditorClassIdentifier: 
+  products:
+  - productID: com.metagame.removeads
+    lstReward:
+    - itemID: 2
+      amount: 1
+    productType: 1
+  - productID: com.metagame.coupleskindiscount
+    lstReward:
+    - itemID: 19
+      amount: 1
+    - itemID: 25
+      amount: 1
+    productType: 0
+  - productID: com.metagame.coupleskin
+    lstReward:
+    - itemID: 19
+      amount: 1
+    - itemID: 25
+      amount: 1
+    productType: 0
+  - productID: com.metagame.starterpackdiscount
+    lstReward:
+    - itemID: 6
+      amount: 1
+    - itemID: 5
+      amount: 1
+    - itemID: 1
+      amount: 30000
+    - itemID: 29
+      amount: 1
+    productType: 0
+  - productID: com.metagame.starterpack
+    lstReward:
+    - itemID: 6
+      amount: 1
+    - itemID: 5
+      amount: 1
+    - itemID: 1
+      amount: 30000
+    - itemID: 29
+      amount: 1
+    productType: 0
+  - productID: com.metagame.supperlevelupdiscount
+    lstReward:
+    - itemID: 6
+      amount: 2
+    - itemID: 5
+      amount: 2
+    - itemID: 1
+      amount: 50000
+    - itemID: 4
+      amount: 2
+    productType: 0
+  - productID: com.metagame.supperlevelup
+    lstReward:
+    - itemID: 6
+      amount: 2
+    - itemID: 5
+      amount: 2
+    - itemID: 1
+      amount: 50000
+    - itemID: 4
+      amount: 2
+    productType: 0
+  - productID: com.metagame.supperweelydiscount
+    lstReward:
+    - itemID: 1
+      amount: 50000
+    - itemID: 22
+      amount: 1
+    productType: 0
+  - productID: com.metagame.supperweely
+    lstReward:
+    - itemID: 1
+      amount: 50000
+    - itemID: 22
+      amount: 1
+    productType: 0
+  - productID: com.metagame.coin1
+    lstReward:
+    - itemID: 1
+      amount: 3000000
+    productType: 0
+  - productID: com.metagame.coin2
+    lstReward:
+    - itemID: 1
+      amount: 1200000
+    productType: 0
+  - productID: com.metagame.coin3
+    lstReward:
+    - itemID: 1
+      amount: 400000
+    productType: 0
+  - productID: com.metagame.coin4
+    lstReward:
+    - itemID: 1
+      amount: 150000
+    productType: 0
+  - productID: com.metagame.coin5
+    lstReward:
+    - itemID: 1
+      amount: 50000
+    productType: 0
+  - productID: com.metagame.coin6
+    lstReward:
+    - itemID: 1
+      amount: 15000
+    productType: 0
+  - productID: com.metagame.musadiscount
+    lstReward:
+    - itemID: 25
+      amount: 1
+    - itemID: 6
+      amount: 10
+    productType: 0
+  - productID: com.metagame.musa
+    lstReward:
+    - itemID: 25
+      amount: 1
+    - itemID: 6
+      amount: 10
+    productType: 0
+  - productID: com.metagame.kochirodiscount
+    lstReward:
+    - itemID: 19
+      amount: 1
+    - itemID: 5
+      amount: 10
+    productType: 0
+  - productID: com.metagame.kochiro
+    lstReward:
+    - itemID: 19
+      amount: 1
+    - itemID: 5
+      amount: 10
+    productType: 0
+  - productID: com.metagame.venomdiscount
+    lstReward:
+    - itemID: 38
+      amount: 1
+    productType: 0
+  - productID: com.metagame.venom
+    lstReward:
+    - itemID: 38
+      amount: 1
+    productType: 0
+  - productID: com.metagame.jokerdiscount
+    lstReward:
+    - itemID: 40
+      amount: 1
+    productType: 0
+  - productID: com.metagame.joker
+    lstReward:
+    - itemID: 40
+      amount: 1
+    productType: 0

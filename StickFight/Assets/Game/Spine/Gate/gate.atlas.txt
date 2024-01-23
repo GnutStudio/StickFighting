@@ -1,0 +1,73 @@
+gate.png
+size:628,316
+filter:Linear,Linear
+pma:true
+Flame_1
+bounds:586,204,37,52
+offsets:1,1,39,54
+Flame_1 copy
+bounds:543,196,41,56
+offsets:3,3,47,62
+Flame_2
+bounds:586,150,37,52
+offsets:1,1,39,54
+Flame_2 copy
+bounds:543,138,41,56
+offsets:3,3,47,62
+Flame_3
+bounds:585,42,37,53
+offsets:1,1,39,55
+Flame_3 copy
+bounds:370,3,41,57
+offsets:3,3,47,63
+rotate:90
+Flame_4
+bounds:545,42,38,53
+offsets:1,1,40,55
+Flame_4 copy
+bounds:486,47,42,57
+offsets:3,3,48,63
+rotate:90
+Flame_5
+bounds:586,258,37,53
+offsets:1,1,39,55
+Flame_5 copy
+bounds:543,254,41,57
+offsets:3,3,47,63
+Flame_6
+bounds:429,5,39,53
+offsets:1,1,41,55
+rotate:90
+Flame_6 copy
+bounds:370,46,43,57
+offsets:3,3,49,63
+rotate:90
+Flame_7
+bounds:543,97,39,51
+offsets:1,1,41,53
+rotate:90
+Flame_7 copy
+bounds:429,46,43,55
+offsets:3,3,49,61
+rotate:90
+Flame_8
+bounds:545,2,38,53
+offsets:1,1,40,55
+rotate:90
+Flame_8 copy
+bounds:486,3,42,57
+offsets:3,3,48,63
+rotate:90
+Layer 6
+bounds:600,8,19,11
+offsets:1,1,21,13
+Layer 6 copy
+bounds:600,21,19,11
+offsets:1,1,21,13
+rotate:90
+Layer 7
+bounds:2,2,309,366
+offsets:1,1,311,368
+rotate:90
+Layer 8
+bounds:370,91,171,220

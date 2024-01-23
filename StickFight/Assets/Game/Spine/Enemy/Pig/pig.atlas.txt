@@ -1,0 +1,22 @@
+pig.png
+size:388,100
+filter:Linear,Linear
+pma:true
+L foot
+bounds:316,28,70,70
+offsets:1,1,72,72
+L hand
+bounds:316,28,70,70
+offsets:1,1,72,72
+R foot
+bounds:316,28,70,70
+offsets:1,1,72,72
+R hand
+bounds:316,28,70,70
+offsets:1,1,72,72
+body
+bounds:2,2,190,96
+offsets:1,1,192,98
+head
+bounds:194,3,120,95
+offsets:1,1,122,97

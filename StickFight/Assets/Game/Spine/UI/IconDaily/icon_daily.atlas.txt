@@ -1,0 +1,14 @@
+icon_daily.png
+size:244,108
+filter:Linear,Linear
+pma:true
+Layer 36 copy
+bounds:112,47,83,59
+Layer 41
+bounds:2,2,104,108
+rotate:90
+Layer 42
+bounds:197,8,98,42
+rotate:90
+Layer 43
+bounds:112,11,82,34

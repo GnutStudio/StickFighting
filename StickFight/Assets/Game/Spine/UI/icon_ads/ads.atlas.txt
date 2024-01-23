@@ -1,0 +1,16 @@
+ads.png
+size:284,152
+filter:Linear,Linear
+pma:true
+ADS
+bounds:140,3,80,59
+offsets:3,2,86,64
+cir1
+bounds:140,64,84,84
+offsets:1,1,86,86
+cir2
+bounds:226,78,53,70
+offsets:1,1,55,72
+upgrade star copy
+bounds:2,2,136,146
+offsets:1,1,138,148

@@ -1,0 +1,43 @@
+tutorial.png
+size:1936,620
+filter:Linear,Linear
+pma:true
+Weapon/weapon_01
+bounds:1505,162,164,455
+offsets:0,11,164,466
+bg
+bounds:2,12,1115,605
+run
+bounds:1686,140,215,215
+sign
+bounds:1119,2,615,384
+offsets:50,23,714,431
+rotate:90
+skin/skin_01/L arm
+bounds:1607,4,86,16
+skin/skin_01/L calf
+bounds:1578,101,39,59
+skin/skin_01/L foot
+bounds:1619,122,20,16
+rotate:90
+skin/skin_01/L hand
+bounds:1619,144,65,16
+skin/skin_01/R hand
+bounds:1619,144,65,16
+skin/skin_01/L thing
+bounds:1505,9,49,78
+skin/skin_01/R arm
+bounds:1695,4,86,16
+skin/skin_01/R calf
+bounds:1607,40,39,59
+skin/skin_01/R foot
+bounds:1619,104,20,16
+skin/skin_01/R thing
+bounds:1556,9,49,78
+skin/skin_01/body
+bounds:1607,22,16,135
+rotate:90
+skin/skin_01/head
+bounds:1505,89,71,71
+up
+bounds:1671,357,260,260

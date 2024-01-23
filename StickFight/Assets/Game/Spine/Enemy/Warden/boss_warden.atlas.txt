@@ -1,0 +1,24 @@
+boss_warden.png
+size:632,252
+filter:Linear,Linear
+pma:true
+L foot
+bounds:194,2,112,142
+rotate:90
+R foot
+bounds:194,2,112,142
+rotate:90
+L hand
+bounds:194,116,132,282
+rotate:90
+R hand
+bounds:194,116,132,282
+rotate:90
+body
+bounds:2,13,235,190
+offsets:1,1,237,192
+rotate:90
+head
+bounds:478,3,245,150
+offsets:1,1,247,152
+rotate:90

@@ -1,0 +1,45 @@
+spider_wall.png
+size:216,112
+filter:Linear,Linear
+pma:true
+body
+bounds:99,44,60,65
+offsets:1,1,62,67
+co
+bounds:191,2,40,20
+offsets:1,1,42,22
+rotate:90
+footl 1
+bounds:99,32,90,10
+offsets:1,1,92,12
+footl 2
+bounds:99,32,90,10
+offsets:1,1,92,12
+footl 3
+bounds:99,32,90,10
+offsets:1,1,92,12
+footl 4
+bounds:99,32,90,10
+offsets:1,1,92,12
+footr 1
+bounds:99,20,90,10
+offsets:1,1,92,12
+footr 2
+bounds:99,20,90,10
+offsets:1,1,92,12
+footr 3
+bounds:99,20,90,10
+offsets:1,1,92,12
+footr 4
+bounds:99,20,90,10
+offsets:1,1,92,12
+head
+bounds:161,44,50,65
+offsets:1,1,52,67
+mang nhen
+bounds:2,9,95,100
+offsets:1,1,97,102
+to nhen
+bounds:2,2,5,15
+offsets:1,1,7,17
+rotate:90

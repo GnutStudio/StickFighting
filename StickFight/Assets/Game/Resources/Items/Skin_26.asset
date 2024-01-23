@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c4cfaef6f527fd40ae9134190417d20, type: 3}
+  m_Name: Skin_26
+  m_EditorClassIdentifier: 
+  itemID: 36
+  icon: {fileID: 21300000, guid: ac55fe639e103014f87a903750d34a8b, type: 3}
+  description: Skin 26
+  nameSpine: skin/skin_027
+  wayGetItem:
+    Type: 4
+    ItemStackDetail:
+      itemID: 2
+      amount: 0
+    LevelDetail: 60

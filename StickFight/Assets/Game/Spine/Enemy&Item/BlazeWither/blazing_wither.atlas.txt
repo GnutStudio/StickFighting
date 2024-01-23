@@ -1,0 +1,16 @@
+blazing_wither.png
+size:208,136
+filter:Linear,Linear
+pma:true
+L foot
+bounds:111,27,18,107
+L hand
+bounds:89,24,110,20
+rotate:90
+R hand
+bounds:89,2,110,20
+body
+bounds:2,9,85,125
+head
+bounds:131,38,96,75
+rotate:90

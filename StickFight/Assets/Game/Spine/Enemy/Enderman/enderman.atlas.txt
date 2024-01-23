@@ -1,0 +1,44 @@
+enderman.png
+size:416,172
+filter:Linear,Linear
+pma:true
+enderman/L hand
+bounds:2,120,25,277
+offsets:1,1,27,279
+rotate:90
+enderman/L leg
+bounds:2,66,25,260
+offsets:1,1,27,262
+rotate:90
+enderman/R leg
+bounds:2,66,25,260
+offsets:1,1,27,262
+rotate:90
+enderman/R hand
+bounds:2,93,25,276
+offsets:1,1,27,278
+rotate:90
+enderman/body
+bounds:2,2,40,125
+offsets:1,1,42,127
+rotate:90
+enderman/head
+bounds:264,15,75,70
+offsets:1,1,77,72
+poppy/L hand
+bounds:2,147,20,290
+rotate:90
+poppy/R hand
+bounds:2,147,20,290
+rotate:90
+poppy/L leg
+bounds:2,44,20,260
+rotate:90
+poppy/R leg
+bounds:2,44,20,260
+rotate:90
+poppy/body
+bounds:294,87,80,120
+rotate:90
+poppy/head
+bounds:341,10,70,75

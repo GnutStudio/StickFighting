@@ -1,0 +1,14 @@
+ghast.png
+size:500,304
+filter:Linear,Linear
+pma:true
+Mouth
+bounds:443,238,54,64
+fire
+bounds:396,10,85,80
+rotate:90
+foot
+bounds:396,97,45,205
+offsets:1,0,46,205
+head
+bounds:2,2,392,300

@@ -1,0 +1,342 @@
+{
+"skeleton": {
+	"hash": "LNJoJ8k3130",
+	"spine": "4.0.64",
+	"x": -42.75,
+	"y": 2.62,
+	"width": 97,
+	"height": 302,
+	"images": "./images/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "body", "parent": "root", "length": 112.67, "rotation": -90.19, "x": 7.21, "y": 228.3 },
+	{ "name": "head", "parent": "body", "length": 71.96, "rotation": -179.13, "x": -1.43, "y": 0.42 },
+	{ "name": "L foot", "parent": "root", "length": 107.36, "rotation": -90.12, "x": 4.27, "y": 112.75 },
+	{ "name": "R foot", "parent": "root", "length": 109.44, "rotation": -90.48, "x": 5.42, "y": 113.91 },
+	{ "name": "R hand", "parent": "root", "length": 113.67, "rotation": -89.89, "x": -8, "y": 228.56 },
+	{ "name": "L hand", "parent": "root", "length": 115, "rotation": -90.55, "x": 24.26, "y": 228.34 }
+],
+"slots": [
+	{ "name": "R foot", "bone": "R foot", "attachment": "R foot" },
+	{ "name": "R hand", "bone": "R hand", "attachment": "R hand" },
+	{ "name": "body", "bone": "body", "attachment": "body" },
+	{ "name": "L foot", "bone": "L foot", "attachment": "L foot" },
+	{ "name": "L hand", "bone": "L hand", "attachment": "L hand" },
+	{ "name": "head", "bone": "head", "attachment": "head" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 57.18, "y": 1.23, "rotation": 90.19, "width": 62, "height": 117 }
+			},
+			"head": {
+				"head": { "x": 36.4, "y": 1.45, "rotation": -90.68, "width": 97, "height": 77 }
+			},
+			"L foot": {
+				"L foot": { "x": 54.13, "y": 1.6, "rotation": 90.12, "width": 57, "height": 112 }
+			},
+			"L hand": {
+				"L hand": { "x": 57.23, "y": -0.47, "rotation": 90.55, "width": 52, "height": 117 }
+			},
+			"R foot": {
+				"R foot": { "x": 55.29, "y": 0.79, "rotation": 90.48, "width": 57, "height": 112 }
+			},
+			"R hand": {
+				"R hand": { "x": 57.44, "y": 1.13, "rotation": 89.89, "width": 52, "height": 117 }
+			}
+		}
+	}
+],
+"events": {
+	"dmg": {}
+},
+"animations": {
+	"attack": {
+		"bones": {
+			"R hand": {
+				"rotate": [
+					{},
+					{ "time": 0.3333, "value": -168.75 },
+					{ "time": 0.4667, "value": -32.4 },
+					{ "time": 1 }
+				]
+			},
+			"R foot": {
+				"rotate": [
+					{},
+					{ "time": 0.3333, "value": 9.15 },
+					{ "time": 1 }
+				]
+			},
+			"L hand": {
+				"rotate": [
+					{},
+					{ "time": 0.3333, "value": -195.98 },
+					{ "time": 0.4667, "value": -37.58 },
+					{ "time": 1 }
+				],
+				"translate": [
+					{},
+					{ "time": 0.4667, "x": -25.87 },
+					{ "time": 1 }
+				]
+			},
+			"L foot": {
+				"rotate": [
+					{},
+					{ "time": 0.3333, "value": -29.03 },
+					{ "time": 0.4667, "value": -7.88 },
+					{ "time": 1 }
+				]
+			},
+			"head": {
+				"rotate": [
+					{},
+					{ "time": 0.4667, "value": 9.45 },
+					{ "time": 1 }
+				]
+			},
+			"body": {
+				"rotate": [
+					{},
+					{ "time": 0.3333, "value": -11.03 },
+					{ "time": 0.4667, "value": 10.12 },
+					{ "time": 1 }
+				],
+				"translate": [
+					{},
+					{ "time": 0.3333, "x": 21.75 },
+					{ "time": 0.4667, "x": -22.87, "y": -6 },
+					{ "time": 1 }
+				]
+			}
+		},
+		"drawOrder": [
+			{
+				"offsets": [
+					{ "slot": "L hand", "offset": 1 }
+				]
+			}
+		],
+		"events": [
+			{ "time": 0.3667, "name": "dmg" }
+		]
+	},
+	"die": {
+		"bones": {
+			"R hand": {
+				"rotate": [
+					{},
+					{ "time": 0.2, "value": -125.1 },
+					{ "time": 0.5, "value": -92.25 }
+				],
+				"translate": [
+					{},
+					{ "time": 0.2, "x": -158.57, "y": -135.76 },
+					{ "time": 0.5, "x": -170.01, "y": -198.65 }
+				]
+			},
+			"R foot": {
+				"rotate": [
+					{},
+					{ "time": 0.2, "value": 121.05 },
+					{ "time": 0.5, "value": 90.22 }
+				],
+				"translate": [
+					{},
+					{ "time": 0.2, "x": -83.11, "y": -82.38 },
+					{ "time": 0.5, "x": -84.55, "y": -83.11 }
+				]
+			},
+			"L hand": {
+				"rotate": [
+					{},
+					{ "time": 0.2, "value": -165.6 },
+					{ "time": 0.5, "value": -91.13 }
+				],
+				"translate": [
+					{},
+					{ "time": 0.2, "x": -186.95, "y": -138.33 },
+					{ "time": 0.5, "x": -199.23, "y": -197.59 }
+				]
+			},
+			"L foot": {
+				"rotate": [
+					{},
+					{ "time": 0.2, "value": 89.55 }
+				],
+				"translate": [
+					{},
+					{ "time": 0.2, "x": -80.22, "y": -82.38 }
+				]
+			},
+			"head": {
+				"rotate": [
+					{},
+					{ "time": 0.2, "value": -26.1 },
+					{ "time": 0.5, "value": -1.8 }
+				]
+			},
+			"body": {
+				"rotate": [
+					{},
+					{ "time": 0.2, "value": 48.82 },
+					{ "time": 0.5, "value": 90 }
+				],
+				"translate": [
+					{},
+					{ "time": 0.2, "x": -188.24, "y": -119.06 },
+					{ "time": 0.5, "x": -197.64, "y": -195.67 }
+				]
+			}
+		},
+		"drawOrder": [
+			{
+				"offsets": [
+					{ "slot": "L hand", "offset": 1 }
+				]
+			}
+		]
+	},
+	"get_damage": {
+		"bones": {
+			"R hand": {
+				"rotate": [
+					{},
+					{ "time": 0.3333, "value": -99.9 },
+					{ "time": 0.6667 }
+				],
+				"translate": [
+					{ "time": 0.3333 },
+					{ "time": 0.4667, "x": 24.37 },
+					{ "time": 0.6667 }
+				]
+			},
+			"R foot": {
+				"rotate": [
+					{},
+					{ "time": 0.3333, "value": -36 },
+					{ "time": 0.6667 }
+				],
+				"translate": [
+					{ "time": 0.3333 },
+					{ "time": 0.4667, "x": 3 },
+					{ "time": 0.6667 }
+				]
+			},
+			"L hand": {
+				"rotate": [
+					{},
+					{ "time": 0.3333, "value": -72.9 },
+					{ "time": 0.6667 }
+				],
+				"translate": [
+					{ "time": 0.3333 },
+					{ "time": 0.4667, "x": 14.25 },
+					{ "time": 0.6667 }
+				]
+			},
+			"L foot": {
+				"translate": [
+					{ "time": 0.3333 },
+					{ "time": 0.4667, "x": 8.25 },
+					{ "time": 0.6667 }
+				]
+			},
+			"head": {
+				"rotate": [
+					{},
+					{ "time": 0.3333, "value": -15.52 },
+					{ "time": 0.6667 }
+				]
+			},
+			"body": {
+				"rotate": [
+					{},
+					{ "time": 0.3333, "value": -10.8 },
+					{ "time": 0.6667 }
+				],
+				"translate": [
+					{},
+					{ "time": 0.3333, "x": 16.87 },
+					{ "time": 0.4667, "x": 25.12 },
+					{ "time": 0.6667 }
+				]
+			}
+		},
+		"drawOrder": [
+			{
+				"offsets": [
+					{ "slot": "L hand", "offset": 1 }
+				]
+			}
+		]
+	},
+	"move": {
+		"bones": {
+			"R hand": {
+				"rotate": [
+					{ "value": -113.63 }
+				],
+				"translate": [
+					{ "y": -20.25 },
+					{ "time": 0.3333 },
+					{ "time": 0.6667, "y": -20.25 },
+					{ "time": 1 },
+					{ "time": 1.3333, "y": -20.25 }
+				]
+			},
+			"R foot": {
+				"rotate": [
+					{ "value": -36.9 },
+					{ "time": 0.3333 },
+					{ "time": 0.6667, "value": 35.33 },
+					{ "time": 1 },
+					{ "time": 1.3333, "value": -36.9 }
+				]
+			},
+			"L hand": {
+				"rotate": [
+					{ "value": -88.2 }
+				],
+				"translate": [
+					{ "y": -15.75 },
+					{ "time": 0.3333 },
+					{ "time": 0.6667, "y": -15.75 },
+					{ "time": 1 },
+					{ "time": 1.3333, "y": -15.75 }
+				]
+			},
+			"L foot": {
+				"rotate": [
+					{ "value": 35.33 },
+					{ "time": 0.3333 },
+					{ "time": 0.6667, "value": -36.9 },
+					{ "time": 1 },
+					{ "time": 1.3333, "value": 35.33 }
+				]
+			},
+			"body": {
+				"translate": [
+					{ "y": -10.5 },
+					{ "time": 0.3333 },
+					{ "time": 0.6667, "y": -10.5 },
+					{ "time": 1 },
+					{ "time": 1.3333, "y": -10.5 }
+				]
+			}
+		},
+		"drawOrder": [
+			{
+				"offsets": [
+					{ "slot": "L hand", "offset": 1 }
+				]
+			}
+		]
+	}
+}
+}

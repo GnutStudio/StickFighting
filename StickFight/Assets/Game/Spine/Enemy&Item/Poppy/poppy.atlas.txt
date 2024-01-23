@@ -1,0 +1,21 @@
+poppy.png
+size:296,128
+filter:Linear,Linear
+pma:true
+poppy/L hand
+bounds:2,106,20,290
+rotate:90
+poppy/R hand
+bounds:2,106,20,290
+rotate:90
+poppy/L leg
+bounds:2,84,20,260
+rotate:90
+poppy/R leg
+bounds:2,84,20,260
+rotate:90
+poppy/body
+bounds:2,2,80,120
+rotate:90
+poppy/head
+bounds:124,7,70,75
